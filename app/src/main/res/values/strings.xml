@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coxswain Test Screens</string>
+    <string name="title_activity_main">Displays Immersion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="split">1:58.7</string>
+    <string name="stroke_rate">28.5</string>
+    <string name="time">16:47.3</string>
+    <string name="total_distance">5374</string>
+    <string name="total_strokes">464</string>
+</resources>
